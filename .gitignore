@@ -1,4 +1,5 @@
 # Files we don't need
 
+_instructions/
 .DS_Store
 assets/css/styles.css.map
